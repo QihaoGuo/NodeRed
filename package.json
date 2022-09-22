@@ -1,0 +1,12 @@
+{
+    "name": "Gracenote_Cases_API",
+    "description": "API integration to the Gracenote Case CRM site",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
